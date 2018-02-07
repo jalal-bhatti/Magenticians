@@ -18,7 +18,7 @@
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": ""
+			"url": "https://github.com/jalal-bhatti/Magenticians"
 		}
     ],
     "extra":
